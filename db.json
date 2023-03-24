@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Tiguan",
+      "price": "24790",
+      "image": "http://localhost:4200/1.webp"
+    },
+    {
+      "id": "2",
+      "name": "Toureg",
+      "price": "44790",
+      "image": "http://localhost:4200/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Toureg",
+      "price": "64790",
+      "image": "http://localhost:4200/3.webp"
+    },
+    {
+      "id": "4",
+      "name": "Tiguan",
+      "price": "19000",
+      "image": "http://localhost:4200/1.webp"
+    },
+    {
+      "name": "Terramont",
+      "price": "40000",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zr.ru%2Fcars%2Fvolkswagen%2F-%2Fteramont%2F&psig=AOvVaw2UiSGrtb34jJ-M-rJCpXme&ust=1679758015411000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiB_bHw9P0CFQAAAAAdAAAAABAD",
+      "id": 1679671643392
+    },
+    {
+      "name": "Sportcar",
+      "price": "100000",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+      "id": 1679671806432
+    },
+    {
+      "name": "Terramont",
+      "price": "40000",
+      "image": "https://www.avtovzglyad.ru/media/article/avt_410JzDJ.jpg.740x555_q85_box-121%2C12%2C1145%2C780_crop_detail_upscale.jpg",
+      "id": 1679672106882
+    },
+    {
+      "name": "Taos",
+      "price": "20000",
+      "image": "https://avatars.mds.yandex.net/get-verba/3587101/2a0000017b3edc05a5bfa6f65c382106a8cf/cattouchret",
+      "id": 1679672285319
+    },
+    {
+      "name": "C-class",
+      "price": "80000",
+      "image": "https://rg.ru/uploads/images/204/73/77/20C0673_083.jpg",
+      "id": 1679672679656
+    },
+    {
+      "name": "S-class",
+      "price": "100000",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2021-mercedes-benz-s580-172-edit-1631555006.jpg?crop=0.696xw:0.520xh;0.242xw,0.480xh&resize=1200:*",
+      "id": 1679672751682
+    }
+  ]
+}
