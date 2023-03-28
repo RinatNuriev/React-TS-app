@@ -23,7 +23,7 @@ const CarDetail = () => {
 
     return (
         <div>
-            <Link className='btn' to={'/'}>Back</Link>
+            <Link className='btn' to={'/React-TS-app'}>Back</Link>
             <CarItem car={car} />
         </div>
 

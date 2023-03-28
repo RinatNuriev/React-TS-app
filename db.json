@@ -1,6 +1,41 @@
 {
   "cars": [
-
+    {
+      "id": "1",
+      "name": "Tiguan",
+      "price": "24790",
+      "image": "http://localhost:4173/React-TS-app/1.webp"
+    },
+    {
+      "id": "2",
+      "name": "Toureg",
+      "price": "44790",
+      "image": "http://localhost:4173/React-TS-app/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Toureg",
+      "price": "64790",
+      "image": "http://localhost:4173/React-TS-app/3.webp"
+    },
+    {
+      "id": "4",
+      "name": "Tiguan",
+      "price": "19000",
+      "image": "http://localhost:4173/React-TS-app/1.webp"
+    },
+    {
+      "name": "Terramont",
+      "price": "40000",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zr.ru%2Fcars%2Fvolkswagen%2F-%2Fteramont%2F&psig=AOvVaw2UiSGrtb34jJ-M-rJCpXme&ust=1679758015411000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiB_bHw9P0CFQAAAAAdAAAAABAD",
+      "id": 1679671643392
+    },
+    {
+      "name": "Sportcar",
+      "price": "100000",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+      "id": 1679671806432
+    },
     {
       "name": "Terramont",
       "price": "40000",
